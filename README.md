@@ -1,11 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Suleman+Zeb!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Suleman+Zeb!;A+passionate+Data+Scientist+&+Physicists+from+Pakistan" />
 </h1>
-
-<h3 align="center">A passionate Data Scientist & Physicists from Pakistan 🇨🇦</h3>
-
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sulemanzeb" alt="sulemanzeb" /></a> </p>
 
