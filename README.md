@@ -1,19 +1,19 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Suleman+Zeb!;+Data+Scientist;&+Physicists"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Suleman+Zeb!;+Data+Scientist;+&+Physicists"/>
 <br/>
 </h1>
 <br/>
 <br/>
 - 🔭 I’m currently working on **Research in Material Science**
-<br/>
+
 - 🤝 I’m looking for help with **Material Science Researchers**
-<br/>
+
 - 👨‍💻 All of my projects are available at [https://github.com/SulemanZeb](https://github.com/SulemanZeb)
-<br/>
+
 - 📫 How to reach me **sulemanzeb50@gmail.com**
-<br/>
+
 - 📄 Know about my experiences [https://drive.google.com/file/d/1XmPY1kFVJot_B7FxJo7C9vxbJKNNsTkw/view?usp=drivesdk](https://drive.google.com/file/d/1XmPY1kFVJot_B7FxJo7C9vxbJKNNsTkw/view?usp=drivesdk)
-<br/>
+
 - ⚡ Fun fact **I am a Technology lover Person**
 <br>
 <br>
