@@ -51,9 +51,9 @@
 <br/>  
 <br>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sulemanzeb&show_icons=true&locale=en" alt="sulemanzeb" height="300"/></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sulemanzeb&show_icons=true&locale=en&layout=compact" alt="sulemanzeb" height="300" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sulemanzeb&" alt="sulemanzeb" height="300"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sulemanzeb&show_icons=true&locale=en" alt="sulemanzeb" height="100"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sulemanzeb&show_icons=true&locale=en&layout=compact" alt="sulemanzeb" height="100" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sulemanzeb&" alt="sulemanzeb" height="100"/></p>
 <br>
 <br>
 <div align="center">
@@ -63,26 +63,3 @@
   
   <br/><br/><br/>
 </div>
-
-<hr/>
-
-
-To make the README section more dynamic and visually appealing with an animation effect, you can incorporate a GIF instead of a static image. Unfortunately, GitHub's README doesn't support CSS or JavaScript animations directly. However, you can use a service to create an animated GIF of the stats.
-
-Here's a revised approach for your README:
-
-1. **Create an Animated GIF:** Use a screen recording tool to capture your streak stats in action. Websites like Giphy or EZGIF can help convert video snippets into GIFs.
-
-2. **Update Your README:** Replace the static image link with the animated GIF link.
-
-Here’s an example of how you might format it in your README:
-
-```markdown
-<p align="center">
-  <img src="URL_TO_YOUR_ANIMATED_GIF" alt="GitHub Streak Stats" height="300"/>
-</p>
-```
-
-Make sure to replace `URL_TO_YOUR_ANIMATED_GIF` with the link to your actual GIF. This will give a dynamic feel to your profile! 
-
-If you have further questions about creating or sourcing the GIF, let me know!
