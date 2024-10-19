@@ -4,7 +4,6 @@
 </h1>
 <h2 align="left">A passionate Data Scientist & Physicist from Pakistan </h2>
 <br/>
-<br/>
 
 - 🔭 I’m currently working on **Research in Material Science**
 
