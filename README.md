@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **sulemanzeb50@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XmPY1kFVJot_B7FxJo7C9vxbJKNNsTkw/view?usp=drivesdk](https://drive.google.com/file/d/1XmPY1kFVJot_B7FxJo7C9vxbJKNNsTkw/view?usp=drivesdk)
-
 - ⚡ Fun fact **I am a Technology lover Person**
 <br>
 
