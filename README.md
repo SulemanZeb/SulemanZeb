@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Material Science Researchers**
 
-- 👨‍💻 My Portfolio to know about me [https://github.com/SulemanZeb](https://sulemanzeb.github.io/sulemanzeb-/)]
+- 👨‍💻 My Portfolio to know about me ([https://sulemanzeb.github.io/sulemanzeb-/](https://sulemanzeb.github.io/SulemanZeb-Portfolio/))]
 
 - 📫 How to reach me **sulemanzeb50@gmail.com**
 
